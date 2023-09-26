@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "name": "Dayvid"
+    },
+    {
+      "id": 4,
+      "name": "Fernando"
+    },
+    {
+      "id": 5,
+      "name": "Fernando Junio"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post",
+      "body": "Conteúdo do Post 1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post",
+      "body": "Conteúdo do Post 2",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Post",
+      "body": "Conteúdo do Post 3",
+      "userId": 2
+    },
+    {
+      "id": 4
+    }
+  ]
+}
